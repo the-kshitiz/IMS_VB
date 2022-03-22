@@ -1,0 +1,13 @@
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\obj\Debug\IMS.Form1.resources
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\obj\Debug\IMS.Resources.resources
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\obj\Debug\IMS.vbproj.GenerateResource.Cache
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\bin\Debug\IMS.exe.config
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\obj\Debug\IMS.Form2.resources
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\bin\Debug\IMS.accdb
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\bin\Debug\IMS.exe
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\bin\Debug\IMS.pdb
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\bin\Debug\IMS.xml
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\obj\Debug\IMS.exe
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\obj\Debug\IMS.xml
+C:\Users\kshitiz\Desktop\IMS\IMS\IMS\obj\Debug\IMS.pdb
